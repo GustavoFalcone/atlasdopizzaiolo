@@ -5,9 +5,9 @@ export const offerConfig = {
   completeAnchor: "DE R$ 97,00",
   upgradePrice: "R$ 17,90",
   bonusTotal: "R$ 87,00",
-  basicCheckout: "https://pay.kiwify.com.br/ZBnetGm",
-  completeCheckout: "https://pay.kiwify.com.br/nJqYRCx",
-  upgradeCheckout: "https://pay.kiwify.com.br/5HXNN6d",
+  basicCheckout: "https://ggcheckout.app/checkout/v5/uj4fVpirOekIbwYhmGugkl",
+  completeCheckout: "https://ggcheckout.app/checkout/v5/hvM6EZ5zF4TrU7J418GGrI",
+  upgradeCheckout: "https://ggcheckout.app/checkout/v5/xXeFtgBwKld9HU7WKYyRc5",
   countdownMinutes: 30,
   countdownStorageKey: "atlas-pizzaiolo:offer-start:v1"
 };
